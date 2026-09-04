@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="./assets/ivan-dorillo-portrait-framed.png" width="240" alt="Portrait of Ivan Lee Dorillo with a blue and violet technology frame" />
-
   # Hi, I'm Ivan Lee Dorillo
 
   **BSIT Student · AI-Assisted Web Developer**
@@ -44,6 +42,12 @@
 <div align="center">
   <img height="155" src="https://github-stats-extended.vercel.app/api?username=ivanleedorillo-ops&show_icons=true&hide_border=true&theme=transparent" alt="Ivan's GitHub statistics" />
   <img height="155" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ivanleedorillo-ops&layout=compact&hide_border=true&theme=transparent" alt="Ivan's most used languages" />
+</div>
+
+### Contribution streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ivanleedorillo-ops&theme=transparent&hide_border=true&disable_animations=true&timezone=Asia%2FManila" alt="Ivan's GitHub contribution streak" />
 </div>
 
 ---
