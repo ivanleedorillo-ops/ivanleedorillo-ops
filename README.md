@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/ChatGPT%20Image%20Sep%204%2C%202026%2C%2001_53_06%20PM.png" alt="Ivan Lee Dorillo GitHub Profile Banner" width="100%" />
+</p>
+
 <div align="center">
 
   <kbd>
