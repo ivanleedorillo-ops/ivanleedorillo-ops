@@ -10,6 +10,7 @@
 
   [![GitHub](https://img.shields.io/badge/GitHub-ivanleedorillo--ops-181717?style=flat-square&logo=github)](https://github.com/ivanleedorillo-ops)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan_Lee_Dorillo-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ivan-lee-dorillo-0585aa426/)
+  [![Facebook](https://img.shields.io/badge/Facebook-Ivan_Lee_Dorillo-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/ivanlee.dorillo)
 
 </div>
 
