@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/ivan-dorillo-portrait.png" width="420" alt="Portrait of Ivan Lee Dorillo with his development tools" />
+  <img src="./assets/ivan-dorillo-portrait.png" width="240" alt="Portrait of Ivan Lee Dorillo with his development tools" />
 
   # Hi, I'm Ivan Lee Dorillo
 
