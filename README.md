@@ -37,20 +37,11 @@
   <img src="https://img.shields.io/badge/Codex_GPT--5.6_Sol-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex GPT-5.6 Sol" />
 </p>
 
-### Selected projects
-
-| Project | What it does | Built with |
-| :--- | :--- | :--- |
-| **ResearchVault** | Helps schools manage, publish, archive, and access approved research papers. | Laravel, PHP, MySQL, HTML, CSS |
-| **Corner Cravings** | A responsive food business site with a complete customer ordering flow. | HTML, CSS, JavaScript, Git |
-| **PHP Learning Journey** | Hands-on exercises covering PHP fundamentals, sessions, validation, and OOP. | PHP |
-| **Dorillo Portfolio** | My personal space for showcasing projects, skills, and development progress. | HTML, CSS |
-
 ### GitHub activity
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=ivanleedorillo-ops&show_icons=true&hide_border=true&theme=transparent" alt="Ivan's GitHub statistics" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanleedorillo-ops&layout=compact&hide_border=true&theme=transparent" alt="Ivan's most used languages" />
+  <img height="155" src="https://github-stats-extended.vercel.app/api?username=ivanleedorillo-ops&show_icons=true&hide_border=true&theme=transparent" alt="Ivan's GitHub statistics" />
+  <img height="155" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ivanleedorillo-ops&layout=compact&hide_border=true&theme=transparent" alt="Ivan's most used languages" />
 </div>
 
 ---
