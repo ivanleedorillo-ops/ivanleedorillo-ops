@@ -1,12 +1,6 @@
-<p align="center">
-  <img src="./assets/ChatGPT%20Image%20Sep%204%2C%202026%2C%2001_53_06%20PM.png" alt="Ivan Lee Dorillo GitHub Profile Banner" width="100%" />
-</p>
-
 <div align="center">
 
-  <kbd>
-    <img src="./assets/ivan-dorillo-portrait.png" width="240" alt="Portrait of Ivan Lee Dorillo with his development tools" />
-  </kbd>
+  <img src="./assets/ivan-dorillo-portrait-framed.png" width="240" alt="Portrait of Ivan Lee Dorillo with a blue and violet technology frame" />
 
   # Hi, I'm Ivan Lee Dorillo
 
