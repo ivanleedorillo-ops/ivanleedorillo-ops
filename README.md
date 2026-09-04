@@ -1,108 +1,60 @@
-# Hi, I'm Ivan Lee Dorillo 👋
+<div align="center">
 
-### BSIT 3rd Year Student | AI-Assisted Web Developer
+  <img src="./assets/ivan-dorillo-portrait.png" width="420" alt="Portrait of Ivan Lee Dorillo with his development tools" />
 
-I build web projects through hands-on, project-based learning with the help of AI tools.  
-I'm currently strengthening my skills in **PHP, Laravel, MySQL, Git, and GitHub**, while my strongest foundation is in **HTML and CSS**.
+  # Hi, I'm Ivan Lee Dorillo
 
-> **AI-assisted dev with a plan.**
+  **BSIT Student · AI-Assisted Web Developer**
 
----
+  I turn ideas into practical web experiences while learning by building.
 
-## 👨‍💻 About Me
+  [![GitHub](https://img.shields.io/badge/GitHub-ivanleedorillo--ops-181717?style=flat-square&logo=github)](https://github.com/ivanleedorillo-ops)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan_Lee_Dorillo-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ivan-lee-dorillo-0585aa426/)
 
-- 🎓 BSIT 3rd Year Student
-- 💻 AI-Assisted Web Developer
-- 🌐 Skilled in HTML and CSS
-- 📚 Currently learning PHP, Laravel, and MySQL
-- 🛠️ Learning through real projects, testing, debugging, and continuous improvement
-- 🤝 Experience working with Git branches, commits, Pull Requests, and team collaboration
-- 🚀 Open to internship opportunities
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### About me
 
-<p align="left">
-  <img src="assets\ivan-dorillo-portrait.png />
+- 🎓 Third-year BSIT student
+- 💻 Focused on clean, responsive web development
+- 🧠 Building faster and learning deeper with AI-assisted workflows
+- 🌱 Improving my PHP skills through hands-on projects
+- 🚀 Open to internship opportunities and collaboration
+
+### Tech stack & tools
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
-### Currently Using / Learning
-
-- **Frontend:** HTML, CSS
-- **Backend:** PHP, Laravel
-- **Database:** MySQL
-- **Version Control:** Git, GitHub
-- **Tools:** VS Code, XAMPP, Antigravity IDE
-- **AI-Assisted Development:** ChatGPT, Gemini, Codex
-
----
-
-## 🚀 Projects
-
-### 🔬 ResearchVault
-An institutional research repository designed for schools to manage, organize, publish, archive, and access approved research papers.
-
-**Tech:** Laravel, PHP, MySQL, HTML, CSS
-
----
-
-### 🍔 Corner Cravings
-A responsive food business website with a customer ordering flow, landing page, menu navigation, and collaborative GitHub development.
-
-**Tech:** HTML, CSS, JavaScript, Git, GitHub
-
----
-
-### 🧪 PHP Learning Journey
-A collection of hands-on PHP learning exercises and mini-projects as I continue improving my backend development skills.
-
-**Topics include:** variables, forms, conditions, arrays, functions, loops, sessions, file handling, validation, and OOP.
-
----
-
-### 🌐 Dorillo Portfolio
-My personal portfolio website showcasing my projects, development progress, and skills.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanleedorillo-ops&show_icons=true&hide_border=true" alt="Ivan's GitHub stats" />
+<p>
+  <img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Gemini_3.7_Flash-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini 3.7 Flash" />
+  <img src="https://img.shields.io/badge/Codex_GPT--5.6_Sol-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex GPT-5.6 Sol" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanleedorillo-ops&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+### Selected projects
+
+| Project | What it does | Built with |
+| :--- | :--- | :--- |
+| **ResearchVault** | Helps schools manage, publish, archive, and access approved research papers. | Laravel, PHP, MySQL, HTML, CSS |
+| **Corner Cravings** | A responsive food business site with a complete customer ordering flow. | HTML, CSS, JavaScript, Git |
+| **PHP Learning Journey** | Hands-on exercises covering PHP fundamentals, sessions, validation, and OOP. | PHP |
+| **Dorillo Portfolio** | My personal space for showcasing projects, skills, and development progress. | HTML, CSS |
+
+### GitHub activity
+
+<div align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=ivanleedorillo-ops&show_icons=true&hide_border=true&theme=transparent" alt="Ivan's GitHub statistics" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanleedorillo-ops&layout=compact&hide_border=true&theme=transparent" alt="Ivan's most used languages" />
+</div>
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ivanleedorillo-ops&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🎯 What I'm Working On
-
-- Improving my PHP fundamentals
-- Learning Laravel through real-world projects
-- Building database-driven web applications
-- Improving Git and GitHub collaboration skills
-- Creating projects that solve practical problems
-
----
-
-## 🤝 Connect With Me
-
-- **GitHub:** [ivanleedorillo-ops](https://github.com/ivanleedorillo-ops)
-- **LinkedIn:** [Ivan Lee Dorillo](https://www.linkedin.com/in/ivan-lee-dorillo-0585aa426/)
-
----
-
-<p align="center">
-  <i>Build. Test. Learn. Improve.</i>
-</p>
+<div align="center">
+  <sub>Build · Test · Learn · Improve</sub>
+</div>
