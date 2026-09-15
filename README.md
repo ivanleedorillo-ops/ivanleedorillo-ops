@@ -1,54 +1,55 @@
 <div align="center">
 
-  # Hi, I'm Ivan Lee Dorillo
+  <img src="./assets/ivan-dorillo-portrait-framed.png" width="240" alt="Portrait of Ivan Lee Dorillo surrounded by web development tools" />
 
-  **BSIT Student · AI-Assisted Web Developer**
+  # Ivan Lee Dorillo
 
-  I turn ideas into practical web experiences while learning by building.
+  **BSIT student building practical, AI-assisted web applications**
 
-  [![GitHub](https://img.shields.io/badge/GitHub-ivanleedorillo--ops-181717?style=flat-square&logo=github)](https://github.com/ivanleedorillo-ops)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan_Lee_Dorillo-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ivan-lee-dorillo-0585aa426/)
-  [![Facebook](https://img.shields.io/badge/Facebook-Ivan_Lee_Dorillo-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/ivanlee.dorillo)
-  [![Gmail](https://img.shields.io/badge/Gmail-ivanleedorillo%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ivanleedorillo@gmail.com)
+  PHP & Laravel · MySQL · Responsive web development
+
+  [Portfolio](https://github.com/ivanleedorillo-ops/Dorillo-Portfolio) ·
+  [LinkedIn](https://www.linkedin.com/in/ivan-lee-dorillo-0585aa426/) ·
+  [Email](mailto:ivanleedorillo@gmail.com)
 
 </div>
 
----
+## About me
 
-### About me
+I'm a third-year BSIT student who learns by shipping real projects. My current work combines PHP, Laravel, and MySQL with AI-assisted development workflows to turn ideas into useful, maintainable web applications.
 
-- 🎓 Third-year BSIT student
-- 💻 Focused on clean, responsive web development
-- 🧠 Building faster and learning deeper with AI-assisted workflows
-- 🌱 Improving my PHP skills through hands-on projects
-- 🚀 Open to internship opportunities and collaboration
+- Building portfolio-ready full-stack projects
+- Deepening my Laravel, database design, and PHP fundamentals
+- Interested in internships, collaboration, and hands-on learning
 
-### Tech stack & tools
+## Featured work
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [HorizonBias](https://github.com/ivanleedorillo-ops/HorizonBias) | Provides transparent, multi-timeframe XAU/USD market analysis with live charting and separate AI-powered macro context—without trade execution. | Laravel, PHP |
+| [ResearchVault](https://github.com/ivanleedorillo-ops/ResearchVault) | Helps school librarians manage approved institutional research while students browse, search, and access studies. | Laravel, MySQL, Blade |
+| [PHP Learning Journey](https://github.com/ivanleedorillo-ops/PHP-Learning-Journey) | Documents my progress from PHP fundamentals to MySQL and small practical projects. | PHP, MySQL |
+
+## Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,git,github,vscode&perline=8" alt="PHP, Laravel, MySQL, HTML, CSS, Git, GitHub, and VS Code" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logoColor=white" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/Gemini_3.7_Flash-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini 3.7 Flash" />
-  <img src="https://img.shields.io/badge/Codex_GPT--5.6_Sol-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex GPT-5.6 Sol" />
-</p>
-
-### GitHub activity
+## Contribution activity
 
 <div align="center">
-  <img height="155" src="https://github-stats-extended.vercel.app/api?username=ivanleedorillo-ops&show_icons=true&hide_border=true&theme=transparent" alt="Ivan's GitHub statistics" />
-  <img height="155" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ivanleedorillo-ops&layout=compact&hide_border=true&theme=transparent" alt="Ivan's most used languages" />
+  <a href="https://github.com/ivanleedorillo-ops?tab=overview">
+    <img src="./assets/contribution-graph.svg" width="100%" alt="Ivan Lee Dorillo's GitHub contribution graph for the past year" />
+  </a>
+  <sub>Generated from GitHub's official contribution data and refreshed automatically.</sub>
 </div>
 
-### Contribution streak
+## Let's connect
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ivanleedorillo-ops&theme=transparent&hide_border=true&disable_animations=true&timezone=Asia%2FManila" alt="Ivan's GitHub contribution streak" />
-</div>
+I'm open to internship opportunities, project collaboration, and conversations about web development.
+
+[LinkedIn](https://www.linkedin.com/in/ivan-lee-dorillo-0585aa426/) · [Facebook](https://web.facebook.com/ivanlee.dorillo) · [ivanleedorillo@gmail.com](mailto:ivanleedorillo@gmail.com)
 
 ---
 
